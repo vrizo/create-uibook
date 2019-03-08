@@ -22,6 +22,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "create-uibook": "./create-uibook.js"
+    "init": "./create-uibook.js"
   }
 }
