@@ -1,0 +1,14 @@
+docs/
+node_modules/
+
+.editorconfig
+npm-debug.log
+.travis.yml
+.gitignore
+.npmignore
+__MACOSX/*
+.DS_Store
+yarn.lock
+.vscode
+*.log
+.env
