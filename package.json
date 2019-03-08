@@ -19,6 +19,7 @@
     "url": "git+https://github.com/vrizo/create-uibook.git"
   },
   "scripts": {
+    "init": "node ./create-uibook.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
