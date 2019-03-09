@@ -4,6 +4,12 @@ let dir = 'uibook-example'
 
 console.log('Creating Uibook example structure')
 
+console.log('DEBUG. process.env.HOME: ', process.env.HOME)
+console.log('DEBUG. process.cwd(): ', process.cwd())
+console.log('DEBUG. process.argv: ', process.argv)
+console.log('DEBUG. process.env: ', process.env)
+console.log('DEBUG. __dirname: ', __dirname)
+
 if (!fs.existsSync(dir)) {
   fs.mkdirSync(dir)
 }
