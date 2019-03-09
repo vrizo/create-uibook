@@ -1,5 +1,8 @@
 {
   "name": "create-uibook",
+  "engines" : {
+    "node" : ">=8.5.0"
+  },
   "version": "0.5.4",
   "description": "Create Uibook structure with example files in a single command ",
   "main": "index.js",
