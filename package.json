@@ -1,6 +1,6 @@
 {
   "name": "create-uibook",
-  "version": "0.5.2",
+  "version": "0.5.4",
   "description": "Create Uibook structure with example files in a single command ",
   "main": "index.js",
   "author": "Vitalii Rizo <kb@kernel-it.ru>",
